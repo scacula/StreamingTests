@@ -1,0 +1,6 @@
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\KafkaDemo\bin\Debug\KafkaDemo.exe.config
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\KafkaDemo\obj\Debug\KafkaDemo.csprojResolveAssemblyReference.cache
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\KafkaDemo\obj\Debug\KafkaDemo.Form1.resources
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\KafkaDemo\obj\Debug\KafkaDemo.Properties.Resources.resources
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\KafkaDemo\obj\Debug\KafkaDemo.csproj.GenerateResource.Cache
+C:\Users\sergio\Documents\visual studio 2015\Projects\StreamingDemo\KafkaDemo\bin\Debug\KafkaDemo.exe.config

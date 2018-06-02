@@ -1,0 +1,13 @@
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQDemo\bin\Debug\RabbitMQDemo.exe.config
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQDemo\bin\Debug\RabbitMQDemo.exe
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQDemo\bin\Debug\RabbitMQDemo.pdb
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQDemo\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQDemo\bin\Debug\RabbitMQ.Client.dll
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQDemo\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQDemo\bin\Debug\RabbitMQ.Client.xml
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQDemo\obj\Debug\RabbitMQDemo.csprojResolveAssemblyReference.cache
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQDemo\obj\Debug\RabbitMQDemo.Form1.resources
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQDemo\obj\Debug\RabbitMQDemo.Properties.Resources.resources
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQDemo\obj\Debug\RabbitMQDemo.csproj.GenerateResource.Cache
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQDemo\obj\Debug\RabbitMQDemo.exe
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQDemo\obj\Debug\RabbitMQDemo.pdb

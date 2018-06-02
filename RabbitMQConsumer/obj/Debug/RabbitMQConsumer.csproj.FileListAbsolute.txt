@@ -1,0 +1,10 @@
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumer\bin\Debug\RabbitMQConsumer.exe.config
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumer\bin\Debug\RabbitMQConsumer.exe
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumer\bin\Debug\RabbitMQConsumer.pdb
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumer\bin\Debug\RabbitMQ.Client.dll
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumer\bin\Debug\RabbitMQ.Client.xml
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumer\obj\Debug\RabbitMQConsumer.exe
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumer\obj\Debug\RabbitMQConsumer.pdb
+c:\users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumer\obj\Debug\RabbitMQConsumer.csprojResolveAssemblyReference.cache

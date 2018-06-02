@@ -1,0 +1,9 @@
+C:\Users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumerPush\bin\Debug\RabbitMQConsumerPush.exe.config
+C:\Users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumerPush\bin\Debug\RabbitMQConsumerPush.exe
+C:\Users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumerPush\bin\Debug\RabbitMQConsumerPush.pdb
+C:\Users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumerPush\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumerPush\bin\Debug\RabbitMQ.Client.dll
+C:\Users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumerPush\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumerPush\bin\Debug\RabbitMQ.Client.xml
+C:\Users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumerPush\obj\Debug\RabbitMQConsumerPush.exe
+C:\Users\sergio\documents\visual studio 2015\Projects\KafkaDemo\RabbitMQConsumerPush\obj\Debug\RabbitMQConsumerPush.pdb
